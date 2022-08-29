@@ -1,4 +1,4 @@
-# SD-Artists-Lexicon-and-Tips
+# <p align="center">SD-Artists-Lexicon-and-Tips
 Tips and info on how to use Stability AI/Dreamstudio for non-Artists and Artists alike!
 
 
