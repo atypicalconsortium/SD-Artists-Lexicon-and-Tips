@@ -2,7 +2,7 @@
 <i>Tips and info on how to use Stability AI/Dreamstudio for non-Artists and Artists alike!</i>
 
 
-Hello, and welcome to my repository for Stable Diffusion. 
+Hello, and welcome to my repository for Stable Diffusion. This guide is an in-depth look for non-artists, and artists, so that we can understand SD better and create together.
 
 My guide covers a WIDE variety of topics, and is on-going. It's also in-progress, and you can currently view it here:
 
