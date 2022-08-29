@@ -10,15 +10,11 @@ To view my current information while I work on this repository, please see my Go
 
 https://docs.google.com/document/d/1K6EqcsRut0InU-8jB0yOvBMGesf5Dndg5FwyuaYLqNc/edit?usp=sharing
 
-As of 8/29/2022, it has the following:
+<p align="center">As of 8/29/2022, it has the following:
 
-<p align="center">CURRENT TABLE OF CONTENTS</p>
+CURRENT TABLE OF CONTENTS</p>
 
-TABLE OF CONTENTS	1
-
-
-SD OFFICIAL LINKS:
-
+SD OFFICIAL LINKS:<br>
 OFFICIAL GUIDES AND TUTORIALS:	<br>
 MY VIDEOS/GUIDES:	<br>
 MODEL TIPS, FORKS, GUIDES, ETC:	<br>
@@ -80,5 +76,3 @@ LEXICON OF GAMES	<br>
 A BRIEF, YET THOROUGH, LOOK AT ART HISTORY	<br>
 FUN STUFF	<br>
 ART STYLES FROM OTHERS	<br>
-
-I will be continuing to add and work on these contents.
