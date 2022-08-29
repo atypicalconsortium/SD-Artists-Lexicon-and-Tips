@@ -12,7 +12,7 @@ https://docs.google.com/document/d/1K6EqcsRut0InU-8jB0yOvBMGesf5Dndg5FwyuaYLqNc/
 
 <p align="center">As of 8/29/2022, it has the following:
 
-<p align="center">CURRENT TABLE OF CONTENTS
+<p align="center">CURRENT TABLE OF CONTENTS:
 
 SD OFFICIAL LINKS:<br>
 OFFICIAL GUIDES AND TUTORIALS:	<br>
