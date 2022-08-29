@@ -6,7 +6,7 @@ GENERALLY SPEAKING...............
 
 1. If it's my writing, don't quote me for commercial projects without contacting me for permission. If it's for personal projects, quote me all you like, but at least give me credit.
 
-2. If it's my PERSONAL ART, then all rights are reserved. Don't use it.
+2. If it's my PERSONAL ART, then all rights are reserved. Don't use it. Or, if you really want to use it, at least ask me about it. I'll prolly say no, but you can ask.
 
 3. If it's SD art, then it's released under their terms. It'd be nice if you credited me.
 
