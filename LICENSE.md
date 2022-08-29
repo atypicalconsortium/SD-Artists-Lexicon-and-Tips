@@ -12,4 +12,4 @@ GENERALLY SPEAKING...............
 
 4. If it's an art prompt or example, obviously, I'm making a tutorial so everyone can use it and I'm usually making stuff for the public domain, or at least creative commons, just give me credit and who cares.
 
-5. Feel free to link any parts of my document. IDK. Or, again, if you want to add a section or something to your work, just ask. Really. Even if it's commercial, I don't really care. I just want to be ASKED.
+5. Feel free to link any parts of my document. IDK. Or, again, if you want to add a section or something to your work, just ask. Really. Even if it's commercial, I don't really care. I just want to be ASKED. I'm just here to make things for people and for people to benefit. I'm not doing it for money; I'm just doing it because I enjoy helping people.
