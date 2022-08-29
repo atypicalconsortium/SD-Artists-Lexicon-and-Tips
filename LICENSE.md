@@ -4,8 +4,7 @@ Each image and work shall be noted individually.
 
 GENERALLY SPEAKING...............
 
-1. If it's my writing, don't quote me for commercial projects without contacting me for permission. It's really weird when businesses take your work and you don't even know.
-If it's for personal projects, quote me all you like, but at least give me credit. I'm not really that particular otherwise.
+1. If it's my writing, don't quote me for commercial projects without contacting me for permission. It's really weird when businesses take your work and you don't even know. If it's for personal projects, quote me all you like, but at least give me credit. I'm not really that particular otherwise.
 
 2. If it's my PERSONAL ART, then all rights are reserved. Don't use it. Or, if you really want to use it, at least ask me about it. I'll prolly say no, but you can ask.
 
