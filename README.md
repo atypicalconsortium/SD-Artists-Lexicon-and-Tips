@@ -1,8 +1,9 @@
 # SD-Artists-Lexicon-and-Tips
 <i>Tips and info on how to use Stability AI/Dreamstudio for non-Artists and Artists alike!</i>
 
+THIS IS A WIP!!!
 
-Hello, and welcome to my repository for Stable Diffusion. This guide is an in-depth look for non-artists, and artists, so that we can understand SD better and create together.
+Sorry it's a bit haphazard for now!
 
 **I will also be providing additional content here in combination with my document!**
 
