@@ -1,7 +1,7 @@
 # SD-Artists-Lexicon-and-Tips
 <i>Tips and info on how to use Stability AI/Dreamstudio for non-Artists and Artists alike!</i>
 
-THIS IS A WIP!!!
+THIS IS A WIP!!! Please view my CARRD for the most recent info: https://atypicalconsortium.carrd.co/
 
 Sorry it's a bit haphazard for now!
 
